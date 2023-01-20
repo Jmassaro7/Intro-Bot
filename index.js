@@ -56,4 +56,4 @@ if (command === 'test') {
 
 
 
-client.login("MTA2NTE0MTAzNTM5Njc4MDA5Mw.GZFbXB.jiiIaHRK-BvKJLXQ3FVavHo3FXpAsSn6NWuGHY")
+client.login("token")
